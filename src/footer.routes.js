@@ -40,7 +40,7 @@ export default {
     {
       name: "company",
       items: [
-        {route: "/pages/landing-pages/about-us", name: "about us",},
+        {route: "/presentation/pages/landing-pages/about-us", name: "about us",},
         { name: "freebies",},
         { name: "premium tools",},
         { name: "blog",},

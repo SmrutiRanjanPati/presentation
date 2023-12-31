@@ -93,7 +93,7 @@ SimpleFooter.defaultProps = {
   company: { name: "Pravnit Software" },
   links: [
     { name: "Pravnit Software" },
-    { route: "/pages/landing-pages/about-us", name: "About Us" },
+    { route: "/presentation/pages/landing-pages/about-us", name: "About Us" },
     { name: "Blog" },
     { name: "License" },
   ],

@@ -43,7 +43,7 @@ const routes = [
         collapse: [
           {
             name: "about us",
-            route: "/pages/landing-pages/about-us",
+            route: "/presentation/pages/landing-pages/about-us",
             component: <AboutUs />,
             icon: <InfoIcon />,
           },

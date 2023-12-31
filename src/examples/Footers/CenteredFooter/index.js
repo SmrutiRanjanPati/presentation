@@ -77,7 +77,7 @@ CenteredFooter.defaultProps = {
   company: {name: "Pravnit Software" },
   links: [
     { href: "/presentation",name: "Company" },
-    { href: "/pages/landing-pages/about-us", name: "About Us" },
+    { href: "/presentation/pages/landing-pages/about-us", name: "About Us" },
     { name: "Team" },
     { name: "Products" },
     { name: "Blog" },
