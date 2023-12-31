@@ -52,7 +52,7 @@ function Footer() {
                   fontWeight="regular"
                   opacity={0.8}
                   component={Link}
-                  href="/presentation/pages/landing-pages/about-us"
+                  href="/pages/landing-pages/about-us"
                   // target="_blank"
                   rel="noreferrer"
                 >

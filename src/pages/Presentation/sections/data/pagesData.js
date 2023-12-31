@@ -7,7 +7,7 @@ export default [
   {
     image: AboutUsPage,
     name: "About Us Page",
-    route: "/presentation/pages/landing-pages/about-us",
+    route: "/pages/landing-pages/about-us",
   },
   {
     image: ContactUsPage,
