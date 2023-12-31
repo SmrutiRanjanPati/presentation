@@ -5,7 +5,7 @@
   "author": "Pravnit Software",
   "license": "See license in https://PravnitSoftware.com",
   "description": "React version of Material Kit 2 by Creative Tim",
-  "homepage": "https://PravnitSoftware.com/portfolio/#/",
+  "homepage": "https://SmrutiRanjanPati.github.io/presentation/#/",
   "bugs": {
     "url": "https://github.com/SmrutiRanjanPati"
   },
@@ -42,7 +42,9 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "eslint ./src"
+    "lint": "eslint ./src",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -72,6 +74,7 @@
     "eslint-plugin-import": "2.27.5",
     "eslint-plugin-jsx-a11y": "6.7.1",
     "eslint-plugin-react": "7.32.2",
-    "eslint-plugin-react-hooks": "4.6.0"
+    "eslint-plugin-react-hooks": "4.6.0",
+    "gh-pages": "^6.1.1"
   }
 }
