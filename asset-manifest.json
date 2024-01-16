@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/presentation/static/js/main.ead60e82.js",
-    "static/media/rotating-card-bg-front.jpeg": "/presentation/static/media/rotating-card-bg-front.bdcdfadc0dacb9bc5f23.jpeg",
+    "main.js": "/presentation/static/js/main.40fa3ca1.js",
     "static/media/bg-presentation.jpg": "/presentation/static/media/bg-presentation.dbd24bd4b2df1034ef2a.jpg",
     "static/media/Ai_generated_background.jpg": "/presentation/static/media/Ai_generated_background.d37118a017a2913df11c.jpg",
     "static/media/background_image.jpg": "/presentation/static/media/background_image.2b9bdb8731f64678a886.jpg",
+    "static/media/makar1.jpg": "/presentation/static/media/makar1.e5a7ed2bda6827557971.jpg",
     "static/media/aboutPage.png": "/presentation/static/media/aboutPage.ccc6c56a5a8bd80e65a8.png",
     "static/media/pageHeaders.png": "/presentation/static/media/pageHeaders.cd328ab3a9a78f90bd47.png",
     "static/media/macbook.png": "/presentation/static/media/macbook.e0a8c5d5cc02d71b6d86.png",
@@ -13,8 +13,8 @@
     "static/media/city-profile.jpg": "/presentation/static/media/city-profile.4d64bba97c3d1757379e.jpg",
     "static/media/bruce-mars.jpg": "/presentation/static/media/bruce-mars.439128efda2e9166739e.jpg",
     "static/media/ContactUsPage.png": "/presentation/static/media/ContactUsPage.10c49ca089ee19205af4.png",
-    "static/media/rotating-card-bg-back.jpeg": "/presentation/static/media/rotating-card-bg-back.183088de91adb283a9ae.jpeg",
     "static/media/blog-9-4.jpg": "/presentation/static/media/blog-9-4.de736e0b751f453415a5.jpg",
+    "static/media/makar.jpg": "/presentation/static/media/makar.da8f6808f39bfcd6ccee.jpg",
     "static/media/blog2.jpg": "/presentation/static/media/blog2.aba7a3cb94805e9557d1.jpg",
     "static/media/website_logo.png": "/presentation/static/media/website_logo.54d622e94f2bf98f9806.png",
     "static/media/bg-about-us.jpg": "/presentation/static/media/bg-about-us.cf9a123e2a3d371d53da.jpg",
@@ -37,9 +37,9 @@
     "static/media/logo-nasa.svg": "/presentation/static/media/logo-nasa.c5d11f8820bfde5fd64db0074156e06c.svg",
     "static/media/logo-netflix.svg": "/presentation/static/media/logo-netflix.432ed6b5c31b9bcab9a38e32bf46a1e9.svg",
     "index.html": "/presentation/index.html",
-    "main.ead60e82.js.map": "/presentation/static/js/main.ead60e82.js.map"
+    "main.40fa3ca1.js.map": "/presentation/static/js/main.40fa3ca1.js.map"
   },
   "entrypoints": [
-    "static/js/main.ead60e82.js"
+    "static/js/main.40fa3ca1.js"
   ]
 }
