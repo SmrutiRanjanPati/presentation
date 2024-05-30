@@ -39,7 +39,7 @@ export default function App() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
-      <Routes>
+      <Routes basename="/presentation">
         {getRoutes(routes)}
           <Route path="/presentation" element={<Presentation />} />
           <Route path="*" element={<Navigate to="/presentation" />} />
